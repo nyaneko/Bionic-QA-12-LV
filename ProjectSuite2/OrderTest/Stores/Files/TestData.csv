@@ -1,0 +1,6 @@
+Product, Quantity, Date, Customer Name, Street, State, City, Zip, Card, Card No, Expiration Date
+MyMoney, 2, 03/28/2015, Anna Klein, Muller, AL, Montgomery, 009008, MasterCard, 1234123412341234, 12/31/2015
+FamilyAlbum, 1, 01/31/2015, Sam Smitt, 18th, KS, Topeka, 675091, Visa, 0001000200030004, 03/31/2015
+ScreenSaver, 10, 01/01/2014, Merry Johnson, Elm, MA, Boston, 492682, American Express, 1111222233334444, 01/01/2020
+MyMoney, 50, 06/11/2000, Gustav Schmidt, Western, OR, Salem, 666666, MasterCard, 9000800070006000, 10/31/2066
+FamilyAlbum, 30, 01/13/1896, Monty Gram, Happiness, Ri, Providence, 123456, Visa, 9876543212345678, 04/20/2018
